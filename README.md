@@ -5,8 +5,6 @@ All codes are free to use for educational purposes and the majority are free to 
 
 It is unethical to use them for training (code) generative AI's and language models.
 
-Feel free to contact for potential collaborations or to discuss at 
-
-sina dot mohammadtaheri AT concordia dot ca
+Feel free to contact for potential collaborations or to discuss at "sina dot mohammadtaheri AT concordia dot ca".
 
 I intend to import the codes after cleaning them a bit over the time, so stay patient but tuned! 
