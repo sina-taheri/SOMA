@@ -1,6 +1,12 @@
 # Open source biomedical signal processing software
-Codes and ideas developed as a MSc. student in Bio-electrical engineering at University of Shiraz (Iran), or working as a biomedical engineer in a hospital in Bandar-Abbas (Iran). All codes are free to use and regenerate, especially if you want to use them in low-resource communities. Feel free to contact for potential collaborations or just to discuss at 
+Codes and ideas developed during my studies, or simply for hobbies.
+
+All codes are free to use for educational purposes and the majority are free to use for medical signal diagnosis and processing, especially for low-resource communities.
+
+It is unethical to use them for training (code) generative AI's and language models.
+
+Feel free to contact for potential collaborations or to discuss at 
 
 sina dot mohammadtaheri AT concordia dot ca
 
-I will clean and add the codes gradually, stay tuned! 
+I intend to import the codes after cleaning them a bit over the time, so stay patient but tuned! 
